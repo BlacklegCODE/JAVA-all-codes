@@ -20,7 +20,7 @@ public class Harsh
         b = scanner.nextDouble();
 
         c = Math.sqrt(Math.pow(a,2) + Math.pow(b,2));
-        System.out.println("The hypo is c :"+c);
+        System.out.println("The hypo is C :"+c);
 
         scanner.close();
     }
